@@ -1,0 +1,15 @@
+# Raiz da solução
+.vs/
+**/bin/
+**/obj/
+*.user
+*.suo
+
+# Banco SQLite
+*.db
+*.db-shm
+*.db-wal
+
+# Outros
+*.cache
+*.log
